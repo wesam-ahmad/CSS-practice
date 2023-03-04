@@ -1,0 +1,31 @@
+body {
+    background-color: #fffde7;
+}
+.para{
+    background-color: gainsboro;
+    margin-right: 15px;
+    width: 254px;
+    float: right;
+    overflow-y: hidden;
+    height: 102px;
+
+}
+
+.flex_para{
+    display: flex;
+   
+}
+
+#p4{
+    border-block: 3px solid;
+    width: 848px;
+    height: 58px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+    font-weight: bold;
+}
+#right_border{
+    border-right: solid 3px black;
+    width: 850px;
+}

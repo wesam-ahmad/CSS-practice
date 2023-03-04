@@ -1,0 +1,30 @@
+.color_text{
+    color: #ff9800;
+}
+h3{
+    font-weight: 100;
+}
+#link3{
+    background-color: #fdd835;
+    color: black;
+}
+.links{
+    color: red;
+
+}
+#list1{
+    font-weight: bold;
+}
+.color_font{
+    color: blue;
+}
+#list2{
+    font-weight: bold;
+}
+#ul1{
+    
+    list-style-type:none;
+}
+#color_font{
+    color: blue;
+}
