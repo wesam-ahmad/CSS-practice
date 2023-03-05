@@ -1,18 +1,18 @@
 body {
-    background-color: #fffde7;
+    /* background-color: #fffde7; */
 }
 .para{
     background-color: gainsboro;
     margin-right: 15px;
     width: 254px;
-    float: right;
+    float: left;
     overflow-y: hidden;
     height: 102px;
 
 }
-
+ 
 .flex_para{
-    display: flex;
+    display: flex; 
    
 }
 
@@ -28,4 +28,5 @@ body {
 #right_border{
     border-right: solid 3px black;
     width: 850px;
+    background-color: #fffde7;
 }
